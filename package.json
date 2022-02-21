@@ -1,5 +1,5 @@
 {	
-	"author": {"name": "Jose Daniel Maza", "email": "josedmaza21@gmail.com"},
+	"author": {"name": "Jose Daniel Maza"},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
