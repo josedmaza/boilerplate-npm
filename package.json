@@ -3,7 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jose Maza",
 	"description": "Just a simple example of a package.json file",
-	"Keywords": ["freecodecamp", "package.json", "node.js", "javascript"],
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
